@@ -1,5 +1,7 @@
-![WechatIMG1](https://user-images.githubusercontent.com/72898953/191864812-160194fe-f70b-429e-9b17-39827a965811.jpeg)
 ### Buwei Wu's User Page
+## Here is a photo of my favorite emoji
+<img width="421" alt="Screen Shot 2022-09-22 at 16 24 57" src="https://user-images.githubusercontent.com/72898953/191868268-e6b23c67-5193-488d-bf77-385cbba75d58.png">
+
 **Here is one of my favorite proverb**
 > No Pain, No Gain!
 
