@@ -6,5 +6,5 @@
 Honestly, I've struggled a lot with `git commit` just before reaching here.
 But if you want to know how I come to solve this question, here is the link that helps me the most:[Git Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-visual-studio-code)
 
-### More about myself[](http://nba.com)
+### More about myself [ss](http://nba.com)
 For more information about myself, I'm also into 
